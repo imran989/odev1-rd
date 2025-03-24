@@ -1,2 +1,1 @@
-# odev1-rd
-test otomasyon √∂dev1
+"# Odev1 Repository - GÅncellendi" 
